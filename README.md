@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mee-omi)](https://github.com/mee-omi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mee-omi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mee-omi&hide_progress=false)
