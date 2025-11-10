@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">Java | Spring Boot | Microservices | DevOps | Trading Systems | MotiveWave/Pine/MQL5 developer</h3>
+<h3 align="center">Java | Spring Boot | Microservices | DevOps | Trading Systems | MotiveWave/Pine developer</h3>
 
 
 ---
